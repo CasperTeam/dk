@@ -1,0 +1,11 @@
+[
+            "frnd.tech",
+            "izazsarbudeen.me",
+            "izazsarbudeen.tech",
+            "lelcd.ml",
+            "ourclg.tech",
+            "program24x.eu.org",
+            "roshu.me",
+            "satyendra.live",
+            "satyendra.tech",
+        ]
